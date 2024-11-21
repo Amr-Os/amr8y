@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amr8y
+- 👋 Hi, I’m Amr
 - 👀 I’m interested in python,kivymd,flutter,ai,ml
 - 🌱 I’m currently learning flutter
 - 📫 amr.alghithi12@gmail.com 
